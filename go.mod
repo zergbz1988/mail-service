@@ -1,4 +1,4 @@
-module goimap
+module github.com/pinguinens/mail-service
 
 go 1.13
 
