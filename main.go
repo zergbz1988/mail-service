@@ -2,7 +2,7 @@ package main
 
 import (
 	httptransport "github.com/go-kit/kit/transport/http"
-	"goimap/service"
+	"github.com/pinguinens/mail-service/service"
 	"net/http"
 )
 
